@@ -1,0 +1,24 @@
+INFO 2023-04-27 15:17:27,639 - Neural Network 1 9
+INFO 2023-04-27 15:17:28,591 - Iteration of repair: 0
+INFO 2023-04-27 15:17:28,597 - Accuracy on the test data: 90.02% 
+INFO 2023-04-27 15:17:28,598 - Start retraining for the repair...
+INFO 2023-04-27 15:17:38,500 - The retraining is done
+
+INFO 2023-04-27 15:17:38,504 - Iteration of repair: 1
+INFO 2023-04-27 15:17:38,509 - Accuracy on the test data: 100.00% 
+INFO 2023-04-27 15:17:38,510 - Start retraining for the repair...
+INFO 2023-04-27 15:17:48,503 - The retraining is done
+
+INFO 2023-04-27 15:17:48,505 - Iteration of repair: 2
+INFO 2023-04-27 15:17:48,512 - Accuracy on the test data: 100.00% 
+INFO 2023-04-27 15:17:48,514 - Start retraining for the repair...
+INFO 2023-04-27 15:17:58,402 - The retraining is done
+
+INFO 2023-04-27 15:17:58,404 - Iteration of repair: 3
+INFO 2023-04-27 15:17:58,410 - Accuracy on the test data: 100.00% 
+INFO 2023-04-27 15:17:58,411 - Start retraining for the repair...
+INFO 2023-04-27 15:18:08,772 - The retraining is done
+
+INFO 2023-04-27 15:18:08,774 - Iteration of repair: 4
+INFO 2023-04-27 15:18:08,779 - Accuracy on the test data: 100.00% 
+INFO 2023-04-27 15:18:08,780 - Start retraining for the repair...

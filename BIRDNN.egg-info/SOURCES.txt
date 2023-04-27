@@ -1,0 +1,7 @@
+README.md
+setup.py
+BIRDNN.egg-info/PKG-INFO
+BIRDNN.egg-info/SOURCES.txt
+BIRDNN.egg-info/dependency_links.txt
+BIRDNN.egg-info/requires.txt
+BIRDNN.egg-info/top_level.txt
