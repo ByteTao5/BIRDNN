@@ -6,9 +6,13 @@ Code for the paper "BIRDNN: Behavior-Imitation Based Repair of Deep Neural Netwo
 
 
 
+
+
 ## Acknowledgements
 
 The code is based on [Veritex](https://github.com/Shaddadi/veritex) and [CARE](https://github.com/sunbingsmu/care). Thank to their wonderful and clear implementation.
+
+
 
 
 
@@ -29,6 +33,10 @@ This tool has been confirmed to work and tested with only Python3.7.
    export OPENBLAS_NUM_THREADS=1
    export OMP_NUM_THREADS=1
    ```
+
+
+
+
 
 
 
@@ -58,9 +66,32 @@ python BIRDNN/repair/fine_tuning_single_layer.py --network 19 --alpha 0.5 --repa
 
 
 
-## If you find our paper/codes helpful, welcome to cite:
 
 
 
 
+## If you find our paper/codes helpful, please cite:
+
+```
+@inproceedings{yang2022neural,
+  title={Neural network repair with reachability analysis},
+  author={Yang, Xiaodong and Yamaguchi, Tom and Tran, Hoang-Dung and Hoxha, Bardh and Johnson, Taylor T and Prokhorov, Danil},
+  booktitle={Formal Modeling and Analysis of Timed Systems: 20th International Conference, FORMATS 2022, Warsaw, Poland, September 13--15, 2022, Proceedings},
+  pages={221--236},
+  year={2022},
+  organization={Springer}
+}
+```
+
+
+
+```
+@inproceedings{sun2022causality,
+  title={Causality-based neural network repair},
+  author={Sun, Bing and Sun, Jun and Pham, Long H and Shi, Jie},
+  booktitle={Proceedings of the 44th International Conference on Software Engineering},
+  pages={338--349},
+  year={2022}
+}
+```
 
